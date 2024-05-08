@@ -1,3 +1,3 @@
-# doodlescript
+# skibidi
 
-A parser made with python.
+A parser made with python along with GUI.
